@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Hero-Catalyst
+- 👋 Hi, I’m Shane Hall
 - 👀 I’m interested in programming, music, and boxing
 - 🌱 I’m currently learning React, ReDux
 - 💞️ I’m looking to collaborate on video games
