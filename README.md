@@ -1,0 +1,11 @@
+- 👋 Hi, I’m @Hero-Catalyst
+- 👀 I’m interested in programming, music, and boxing
+- 🌱 I’m currently learning React, ReDux
+- 💞️ I’m looking to collaborate on video games
+- 📫 How to reach me:
+- Shoot me a message!
+
+<!---
+Hero-Catalyst/Hero-Catalyst is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
